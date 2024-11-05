@@ -7,7 +7,7 @@ import { useStore } from "@/stores/lang"
 
 import App from './App.vue'
 import router from './router'
-import bootstap from 'bootstrap/dist/js/bootstrap.bundle.js'
+import bootstrap from 'bootstrap/dist/js/bootstrap.bundle.js'
 import Lang from './components/Lang.vue'
 import AOS from 'aos'
 import FR from './locale/fr.json'
@@ -30,6 +30,7 @@ const i18n = createI18n({
 	}
 })
 
+app.use(bootstrap)
 app.use(router)
 app.use(AOS)
 app.use(i18n)

@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://dylonni.github.io/Dylonni.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,7 +11,9 @@
     "test:unit": "vitest",
     "test:e2e": "playwright test",
     "lint": "eslint . --fix",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
@@ -32,6 +35,7 @@
     "eslint": "^9.13.0",
     "eslint-plugin-playwright": "^2.0.0",
     "eslint-plugin-vue": "^9.29.0",
+    "gh-pages": "^6.2.0",
     "jsdom": "^25.0.1",
     "prettier": "^3.3.3",
     "vite": "^5.4.10",

@@ -90,11 +90,11 @@
         <div
           class="d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center justify-content-xl-center"
           style="width: 100%;">
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/shell.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/shell.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/c.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/c.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/c++.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/c++.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
         </div>
       </div>
@@ -103,11 +103,11 @@
         <div
           class="d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center justify-content-xl-center"
           style="width: 100%;">
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/grafana.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/grafana.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/prometheus.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/prometheus.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-right: 15px;margin-left: 15px;"><img src="../assets/docker.webp"
+          <div style="margin-right: 15px;margin-left: 15px;"><img class="img-fluid" src="../assets/docker.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
         </div>
       </div>
@@ -116,11 +116,11 @@
         <div
           class="d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center"
           style="width: 100%;">
-          <div style="margin-left: 15px;margin-right: 15px;"><img src="../assets/js.webp"
+          <div style="margin-left: 15px;margin-right: 15px;"><img class="img-fluid" src="../assets/js.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-left: 15px;margin-right: 15px;"><img src="../assets/nodejs.webp"
+          <div style="margin-left: 15px;margin-right: 15px;"><img class="img-fluid" src="../assets/nodejs.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
-          <div style="margin-left: 15px;margin-right: 15px;"><img src="../assets/vjs.webp"
+          <div style="margin-left: 15px;margin-right: 15px;"><img class="img-fluid" src="../assets/vjs.webp"
               style="width: 110px;border-radius: 0px;margin-right: 0px;margin-left: 0px;"></div>
         </div>
       </div>
